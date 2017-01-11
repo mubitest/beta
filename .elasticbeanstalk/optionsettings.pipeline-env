@@ -20,7 +20,7 @@ Application Healthcheck URL=
 [aws:elasticbeanstalk:container:php:phpini]
 allow_url_fopen=On
 composer_options=
-display_errors=Off
+display_errors=On
 document_root=
 max_execution_time=60
 memory_limit=256M

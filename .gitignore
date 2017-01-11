@@ -46,7 +46,9 @@ Homestead.json
 phpmyadmin
 public/report
 public/uploads
-storage/*
+storage/app/*
+storage/framework/*
+storage/logs/*
 beanstalkd
 staging
 connect.sh
