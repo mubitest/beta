@@ -47,8 +47,10 @@ phpmyadmin
 public/report
 public/uploads
 storage/app/*
-storage/framework/*
 storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
 beanstalkd
 staging
 connect.sh
