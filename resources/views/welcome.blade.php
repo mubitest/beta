@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Beta Branch
+                    Laravel Beta Branch 1.1.1.1.1
                 </div>
 
                 <div class="links">
