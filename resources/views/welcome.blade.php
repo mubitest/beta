@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 1.0
+                    Laravel Beta Branch
                 </div>
 
                 <div class="links">
