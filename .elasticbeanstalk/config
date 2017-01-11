@@ -1,0 +1,13 @@
+[global]
+ApplicationName=codepipeline
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=codepipeline-env
+EnvironmentTier=WebServer::Standard::1.0
+EnvironmentType=SingleInstance
+InstanceProfileName=aws-elasticbeanstalk-ec2-role
+OptionSettingFile=/Users/Mubi/htdocs/capxbeanstalk/.elasticbeanstalk/optionsettings.revamply-env
+RdsEnabled=No
+Region=us-east-1
+ServiceEndpoint=http://codepipeline-env.us-east-1.elasticbeanstalk.com/
+SolutionStack=64bit Amazon Linux 2016.09 v2.3.0 running PHP 7.0
+
